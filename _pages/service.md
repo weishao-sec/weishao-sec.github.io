@@ -1,11 +1,10 @@
 ---
 layout: archive
+title: Honors & Awards
 permalink: /service/
 author_profile: true
 ---
 
-Honors & Awards
-=====
 - DAC Young Fellow, Design Automation Conference, 2025
 
 Professional Service
