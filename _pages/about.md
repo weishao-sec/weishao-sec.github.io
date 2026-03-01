@@ -3,8 +3,8 @@ permalink: /
 title: "About"
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - weishao-sec.github.io/about/
+  - weishao-sec.github.io/about.html
 ---
 
 I am a second-year Ph.D. student in Computer Science at the University of California, Davis, advised by Prof. [Houman Homayoun](https://houman.ece.ucdavis.edu/) and Prof. [Setareh Rafatirad](https://web.cs.ucdavis.edu/~srafatir/).
