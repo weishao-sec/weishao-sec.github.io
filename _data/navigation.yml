@@ -9,10 +9,10 @@
 
 main:
   - title: "Publications"
-    url: https://weishao-sec.github.io/publications/
+    url: /publications/
 
   - title: "Service & Honors"
-    url: https://weishao-sec.github.io/service/
+    url: /service/
 
   # - title: "Talks"
   #   url: /talks/    
