@@ -14,8 +14,8 @@ Selected Publications
 
 ### Kumo: A Security-Focused Serverless Cloud Simulator  
 **Wei Shao**, Khaled Khasawneh, Setareh Rafatirad, Houman Homayoun, and Chongzhou Fang  
-*IEEE International Symposium on Cluster, Cloud, and Internet Computing (CCGRID), 2026*
-
+*IEEE International Symposium on Cluster, Cloud, and Internet Computing (CCGRID), 2026*  
+[[paper]](/files/Kumo_CCGRID_cam.pdf) | [slides]
 
 ### Bit of a Close Talker: A Practical Guide to Serverless Cloud Co-Location Attacks  
 **Wei Shao**, Najmeh Nazari, Behnam Omidi, Setareh Rafatirad, Khaled N. Khasawneh, Houman Homayoun, and Chongzhou Fang  
