@@ -13,8 +13,8 @@ Selected Publications
 ---
 
 ### Beyond End-to-End Success: Diagnosing Failures in Long-Horizon Security LLM Agents  
-**Wei Shao**, Chongzhou Fang, Zuxiong Tan, Zequan Liang, Setareh Rafatirad, Avesta Sasan, and Houman Homayoun
-*arXiv preprint, 2026*
+**Wei Shao**, Chongzhou Fang, Zuxiong Tan, Zequan Liang, Setareh Rafatirad, Avesta Sasan, and Houman Homayoun  
+*arXiv preprint, 2026*  
 [[paper]](/files/2608.20563v1.pdf) | [slides]
 
 ### Kumo: A Security-Focused Serverless Cloud Simulator  
