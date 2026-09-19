@@ -12,6 +12,11 @@ Selected Publications
 
 ---
 
+### Beyond End-to-End Success: Diagnosing Failures in Long-Horizon Security LLM Agents  
+**Wei Shao**, Chongzhou Fang, Zuxiong Tan, Zequan Liang, Setareh Rafatirad, Avesta Sasan, and Houman Homayoun
+*arXiv preprint, 2026*
+[[paper]](/files/2608.20563v1.pdf) | [slides]
+
 ### Kumo: A Security-Focused Serverless Cloud Simulator  
 **Wei Shao**, Khaled Khasawneh, Setareh Rafatirad, Houman Homayoun, and Chongzhou Fang  
 *IEEE International Symposium on Cluster, Cloud, and Internet Computing (CCGRID), 2026*  
@@ -27,10 +32,4 @@ Selected Publications
 **Wei Shao**, Zequan Liang, Ruoyu Zhang, Ruijie Fang, Ning Miao, Ehsan Kourkchi, Setareh Rafatirad, Houman Homayoun, and Chongzhou Fang  
 *Network and Distributed System Security Symposium (NDSS), 2026*  
 [[paper]](/files/2026-s1087-paper.pdf) | [[slides]](/files/s1087-shao-slides.pdf)
-
-
-### Self-Supervised and Topological Signal-Quality Assessment for Any PPG Device  
-**Wei Shao**, Ruoyu Zhang, Zequan Liang, Ehsan Kourkchi, Setareh Rafatirad, and Houman Homayoun  
-*IEEE International Conference on Body Sensor Networks (BSN), 2025*  
-[[paper]](/files/45_Self_Supervised_and_Topolog.pdf)
 
