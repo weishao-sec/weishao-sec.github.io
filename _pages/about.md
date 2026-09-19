@@ -15,15 +15,6 @@ News
 =====
 
 ---
-News
-**=====**
-
----
-
-News
-**=====**
-
----
 
 - [09/2026] Our [work on diagnosing failures in long-horizon security LLM agents](/files/2608.20563v1.pdf) is available on arXiv.
 - [02/2026] Served as Session Chair at LAST-X (NDSS Workshop).
